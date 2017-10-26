@@ -1,0 +1,17 @@
+Roman Numerals
+
+converting 1-3 (no more than 3 characters in a row)
+  - 1, 2, 3
+  - I, II, III
+
+greater than 3,999
+  - alert (choose a number smaller than 4,000)
+
+. + e -
+  - make function to disable
+
+three numbers in a row
+  - switch to next roman numeral then subtract from that numeral
+    ex. 4 = IV (IIII !=== 4)
+
+serparate 1s, 10s, 100, 1000s
